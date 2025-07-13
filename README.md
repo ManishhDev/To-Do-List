@@ -19,8 +19,10 @@ It helps you stay organized by allowing you to add, edit, delete, and mark tasks
 
 ## 📸 Screenshots
 
-<!-- Add your screenshot image here -->
-<!-- Example: ![Screenshot](./images/screenshot.png) -->
+
+
+![Screenshot](./images/Screenshot-2025-07-13-152502.png)
+
 
 ---
 
